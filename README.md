@@ -14,10 +14,10 @@ Identify factors associated with student mental health.
 Present data-driven insights and conclusions.
 
 #### Tools & Techniques
-Excel 
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Data Visualization
+* Excel 
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
 
 ---
 
