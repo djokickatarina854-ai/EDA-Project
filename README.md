@@ -29,7 +29,7 @@ Present data-driven insights and conclusions.
 * The results suggest the need for greater awareness, improved access to mental health services, and stronger support systems within educational institutions.
 
 ---
-
+### About Me
 Hi there! I am Katarina and I have been working in accounting for over five years. I have been learning data analytics tool for a year now and I am so happy to work and share my projects! Feel free to contact me on LinkedIn or email, I am open for analytical roles!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-dokic-5b6661207/)
